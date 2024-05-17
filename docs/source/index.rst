@@ -14,4 +14,4 @@ Contents
 .. toctree::
 
    intro
-   PACE plan
+   PACE
